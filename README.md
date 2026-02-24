@@ -1,4 +1,4 @@
-# 魔塔API 手写图片转文字脚本
+# 手写图片通过大模型批量转文字脚本
 基于魔塔（ModelScope）OpenAI兼容接口实现的批量手写图片转文字工具，支持多图片批量识别、严格按手写排版转录，适配Qwen3-VL-8B-Instruct等多模态大模型。
 
 ## 功能特点
@@ -103,6 +103,7 @@ python 转换脚本.py
 如果这个项目帮到了你，欢迎请我喝杯咖啡，让我有动力继续维护和更新 ☕️  
 TRC20 Address:`TEinJC5NaJKGm26ALd2st6nEiAnbThPj4U`  
 ![微信赞赏码](assets/wechat_reward.jpg)
+
 
 
 
